@@ -7,7 +7,7 @@
 
 
 # IDE
-/.idea
+.idea/
 
 # testing
 /coverage
